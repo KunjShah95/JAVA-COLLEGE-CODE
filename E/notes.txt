@@ -1,0 +1,14 @@
+//multi dimenisonal array
+ public class text {
+    public static void main(String[] args){
+        for(int[][],araray2D:text) {
+            for(int(array1D: array2D){
+                for(int item: array1D){
+                System.out.println(item);
+            }
+        } 
+    }
+}
+ }
+
+// string
