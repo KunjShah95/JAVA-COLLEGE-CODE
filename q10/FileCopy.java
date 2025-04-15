@@ -24,7 +24,7 @@ public class FileCopy{
             try {
                 copyUsingByteStreams(sourceFileName, destinationFileName + ".byte");
                 System.out.println("File copied using byte streams to: " + destinationFileName + ".byte");
-            } catch (IOExceptionon e) {
+            } catch (IOException e) {
                 System.err.println("Error copying using byte streams: " + e.getMessage());
             }
             try {
